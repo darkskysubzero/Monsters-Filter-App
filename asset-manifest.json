@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/monsters-database/static/css/main.e72bc09c.css",
-    "main.js": "/monsters-database/static/js/main.0cc4650e.js",
-    "index.html": "/monsters-database/index.html",
-    "main.e72bc09c.css.map": "/monsters-database/static/css/main.e72bc09c.css.map",
-    "main.0cc4650e.js.map": "/monsters-database/static/js/main.0cc4650e.js.map"
+    "main.css": "/Monsters-Filter-App/static/css/main.e72bc09c.css",
+    "main.js": "/Monsters-Filter-App/static/js/main.0cc4650e.js",
+    "index.html": "/Monsters-Filter-App/index.html",
+    "main.e72bc09c.css.map": "/Monsters-Filter-App/static/css/main.e72bc09c.css.map",
+    "main.0cc4650e.js.map": "/Monsters-Filter-App/static/js/main.0cc4650e.js.map"
   },
   "entrypoints": [
     "static/css/main.e72bc09c.css",
